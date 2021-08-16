@@ -1,2 +1,2 @@
 # mamo4ka
-Async microservice orchestrator
+Async workflow orchestrator
