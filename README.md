@@ -1,2 +1,2 @@
 # mamo4ka
-Async workflow orchestrator
+Async API gateway and workflow orchestrator
